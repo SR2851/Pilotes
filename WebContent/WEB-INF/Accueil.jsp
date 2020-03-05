@@ -6,7 +6,8 @@
 <head>
 <meta charset="utf-8">
 <style type="text/css"><%@ include file="bootstrap.min.css"%></style>
-<title>Accueil</title>
+<link rel="icon" type="image/png" href="http://localhost:8080/Pilotes/AF.PNG" />
+<title>Air Fly</title>
 </head>
 <body style="background-color: light-grey;">
 <nav class="navbar navbar-dark" style="background-color:black; border-bottom-style: solid; border-color:blue;">
@@ -24,7 +25,7 @@
 <h5><a href="/Pilotes/NewPilote" style="color:black; padding-left:10px;">Enregistrement pilotes</a></h5>
 <h5><a href="/Pilotes/listevol" style="color:black; padding-left:10px;">Liste des Vols </a></h5>
 <h5><a href="/Pilotes/listepilote" style="color:black; padding-left:10px;">Liste des Pilotes </a></h5>
-<a href="" style="color:white;"> </a>
+
 </div>
 </div>
 <div class="col-lg-6" style="background-color: black; border-bottom-right-radius: 25px; border-bottom-left-radius: 25px; border-style:solid;border-bottom-color:blue; border-left-color:blue; border-right-color:blue; ">

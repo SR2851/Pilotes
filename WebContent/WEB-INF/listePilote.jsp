@@ -6,6 +6,7 @@
 <head>
 <meta charset="utf-8">
 <style type="text/css"><%@ include file="bootstrap.min.css"%></style>
+<link rel="icon" type="image/png" href="http://localhost:8080/Pilotes/AF.PNG" />
 <title>Pilote liste</title>
 </head>
 <body style="background-color: light-grey;">
