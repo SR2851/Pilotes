@@ -21,7 +21,7 @@
 <div style="background-color:black; border-radius:50px; text-align:center; color:white; margin-left:14px;"><h4>Menu</h4></div>
 <div style="border-bottom-style:solid;border-bottom-color:blue;margin-left:14px;">
 <h5><a href="/Pilotes/Accueil" style="color:black; padding-left:10px;">Accueil </a></h5>
-<h5><a href="/Pilotes/NewVol" style="color:black; padding-left:10px;">Enregistrement vol</a></h5>
+<h5><a href="/Pilotes/NewVol" class="btn btn-link btn-lg disabled" role="button" aria-disabled="true" style="color:black; padding-left:10px;">Enregistrement vol</a></h5>
 <h5><a href="/Pilotes/NewPilote" style="color:black; padding-left:10px;">Enregistrement pilotes</a></h5>
 <h5><a href="/Pilotes/listevol" style="color:black; padding-left:10px;">Liste des Vols </a></h5>
 <h5><a href="/Pilotes/listepilote" style="color:black; padding-left:10px;">Liste des Pilotes </a></h5>
@@ -40,8 +40,8 @@
 <option value="${pilote.idPilote}">${pilote.idPilote}-${pilote.nom}-${pilote.prenom}</option>
  </c:forEach>
 </select>
-
-<input type="submit" value="Ajouter" class="btn btn-secondary">
+<br>
+<input type="submit" value="Ajouter" class="btn btn-primary">
 </form><br><br>
 
 </div>

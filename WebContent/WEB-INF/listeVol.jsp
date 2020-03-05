@@ -23,7 +23,7 @@
 <h5><a href="/Pilotes/Accueil" style="color:black; padding-left:10px;">Accueil </a></h5>
 <h5><a href="/Pilotes/NewVol" style="color:black; padding-left:10px;">Enregistrement vol</a></h5>
 <h5><a href="/Pilotes/NewPilote" style="color:black; padding-left:10px;">Enregistrement pilotes</a></h5>
-<h5><a href="/Pilotes/listevol" style="color:black; padding-left:10px;">Liste des Vols </a></h5>
+<h5><a href="/Pilotes/listevol" class="btn btn-link btn-lg disabled" role="button" aria-disabled="true" style="color:black; padding-left:10px;">Liste des Vols </a></h5>
 <h5><a href="/Pilotes/listepilote" style="color:black; padding-left:10px;">Liste des Pilotes </a></h5>
 <a href="" style="color:white;"> </a>
 </div>
